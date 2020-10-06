@@ -6,7 +6,7 @@ about: >
     Todo.
 
 master_repo: true
-url: "http://geeeljay.github.io/blog"
+url: "https://geeeljay.github.io/blog"
 markdown: kramdown
 highlighter: rouge
 
